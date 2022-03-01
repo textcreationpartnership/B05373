@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Edinburgh the fourth of March, 1643. Forasmeikle as the Lords of His Majesties Privy Councell of this Kingdome, having, according to the offer made in Parliament, and particular treaty agreed upon with his Majesty and the Parliament of England, sent over to Ireland the number of ten thousand men, ...</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05373</idno>
+            <idno type="STC">Wing S1502</idno>
+            <idno type="STC">ESTC R225761</idno>
+            <idno type="EEBO-CITATION">52529210</idno>
+            <idno type="OCLC">ocm 52529210</idno>
+            <idno type="VID">178938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178938)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Edinburgh the fourth of March, 1643. Forasmeikle as the Lords of His Majesties Privy Councell of this Kingdome, having, according to the offer made in Parliament, and particular treaty agreed upon with his Majesty and the Parliament of England, sent over to Ireland the number of ten thousand men, ...</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler, Printer tothe Kings most excellent Majestie,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <date>Anno 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: Arch. Primerose Cler. S. Cons.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Appropriation and expenditures --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1642-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:178938:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>At Edinburgh <date>the fourth of March, 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Orſameikle as the Lords of His Majeſties privie Councell of this Kingdome, having, according to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offer made in Parliament, and particular Treaty agreed upon with His Majeſty and the Parliament <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> England, ſent over to Ireland the number of ten thouſand men, for the defence of the Proteſtant Religion, for His Majeſties ſervice, and aſſiſtance of the Kingdome of England, in ſuppreſſing the Popiſh Rebels there; And having dayly advertiſement of the great neceſſities and wants of the Scots Armie in Ireland, as well Officers as Souldiers, who for want not only of their ordinar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pay, but even of victuals in the ſpareſt meaſure, and clothes, and ſhoes, are redacted to that extre<g ref="char:EOLhyphen"/>mity, that their bodies are daily decaying for want of neceſſary ſuſtenance to uphold nature, and are not able to endure any conſiderable time longer, unleſſe ſpeedy and timous remeid be provided; The Chriſtian conſideration whereof not only belongs to His Majeſties Privie Councell in ſpeciall, but to the whole Kingdome alſo in generall: And becauſe the unhappy differences and diſtracti<g ref="char:EOLhyphen"/>ons in England are ſuch, that the Parliament of England (which is obliged by the ſaid Treatie and capitulation for the monethly pay and entertainment of the ſaid Army) cannot ſo timely and plen<g ref="char:EOLhyphen"/>tifully provide victuall and moneys for payment of their arreares, or ſupply them for their preſent maintenance; Beſides many other inconveniences will ariſe, if they be not timouſly ſupplied with ſome money and victuall from this Kingdome: Therefore the Lords of His Majeſties Privie Councell according to their bound dutie, and with concourſe and conſent of the Lords and others Commiſſioners for conſerving the peace, and Commiſſioners for the common burdens, and they for them<g ref="char:EOLhyphen"/>ſelves having at length conſidered upon the beſt wayes and meanes upon the borrowing of moneyes, and providing of victuals, clothes, and ſhoes to the ſaid Army have reſolved, and have determined, that there ſhall be preſently borrowed, for the uſe foreſaid, the ſumme of twenty thouſand p<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> ſterling, and as much more or leſſe as ſhall be voluntarily offered betwixt and the firſt day of May next to come, by Counſellers Commiſſioners of Commiſſions foreſaid, and every one of them who are within this King<g ref="char:EOLhyphen"/>dome, or by any others well affected <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; and to be paid by them to <hi>William Thompſon</hi> generall Receiver and Commiſſioner of the ſaid Army, or to <hi>John Joſsie</hi> Merchant in Edinburgh his depute in his abſence: Upon the delivery whereof to the ſaid <hi>William Thompſon,</hi> or his ſaid depute, the In-giver of the money ſhall receive a note ſubſcribed by the ſaid <hi>William,</hi> or his ſaid depute, granting the receit of the ſame for the uſe foreſaid, and obliging them to hold count, and depurſe the ſaid moneyes, as the ſaids Lords of Coun<g ref="char:EOLhyphen"/>cell, or any having warrant from them, ſhall appoint for the uſe foreſaid. The which note being ſhown to the Councell, and regi<g ref="char:EOLhyphen"/>ſtrate in their books for a charge upon the receivers, the Lords of Councell will give forth and grant an Act of Councell declaring the ſame to be lent for the uſe foreſaid; and which Act is hereby declared to be als valid as if the ſame were done by the Councell, with conſent of the <hi>Quorums</hi> of both the ſaids Commiſſions. Likeas the ſaids Lords of Privie Councell, Commiſſioners for conſerving the peace, and Commiſſioners for the common burdens, doe hereby oblige them to cauſe the ſaid ſummes (ſo to be lent) be thankfully payd and delivered back again to the ſaids perſons, their heires and aſſignes, betwixt the date hereof and the Terme of Whitſunday next to come in this inſtant yeare of God 1643. Together with the ordinary annuall-rent from the date of the lending of the ſame, ſo long as the whole or any part thereof ſhall remain unpaid. And in caſe that moneyes ſhall not come timouſly from the Parliament of England to repay the ſaids ſummes ſo to be lent, or any part thereof in due time, The ſaids Lords of Privie Councell, with conſent and concourſe foreſaids, Declares, that the ſame, with annuals, ſhall remain as a publick debt, due to the ſaids perſons, lenders and advancers thereof, ay and while the repayment of the ſame by the Parliament of England, or by ſome other common courſe to be ta<g ref="char:EOLhyphen"/>ken thereanent. Likeas the Lords of Privie Councell, and the Lord Generall, with conſent of the Colonels preſent, and taking the burden on him for the ſaid Scots Armie, doe hereby hypothecate and aſſigne for repayment of the moneyes to be lent as ſaid is, the firſt and readieſt of the ſummes of mony due or to be due to that Army by the Parliament of England; and ordains the ſame to be im<g ref="char:EOLhyphen"/>ployed proportionally for that effect: And declares that it ſhall not be lawfull to the ſaid Commiſſioner, or his depute, to diſtribute any of the ſaids moneyes without ſpeciall warrant of the Councell, but that he ſhall from time to time, as he receives any moneyes due to that Army, ſend a note thereof under his hand to the Clerk of Councell, to be regiſtrate in the books of Councell, that the ad<g ref="char:EOLhyphen"/>vancers may know the proportion of their repayment and relief: And the ſaids Lords of Councell, with conſent foreſaid, do hereby de<g ref="char:EOLhyphen"/>ſire every one who will contribute their help and aſſiſtance to ſo good and charitable a work, in ſo great a neceſſitie, that they ſhould be pleaſed to lend and advance ſuch ſummes of moneyes as they ſhall think fit upon the like ſecuritie and aſſurance to be given them in manner foreſaid: And ordaines theſe preſents to be regiſtrate in the books of Councell, Commiſſioners of peace, and Commiſſioners for the common burdens; and to have the ſtrength of an Act of the ſaids Judicatories jointly or ſeverally: And declares that the dou<g ref="char:EOLhyphen"/>ble hereof, under the hand of the Clerk of any of the ſaids Judicatories, ſhall be a ſufficient intimation to the ſeverall Shires and Presbyteries to whom the ſame ſhall be preſented.</p>
+            <closer>
+               <signed>Arch. Primeroſe Cler. S. Conſ</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Edinburgh by <hi>EVAN TYLER,</hi> Printer to the Kings moſt excellent Majeſtie, Anno 1643.</p>
+            <pb facs="tcp:178938:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
